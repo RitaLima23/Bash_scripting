@@ -1,5 +1,5 @@
 # Bash_scripting
-# Introdução ao Bash Scripting (Linux)
+# Introdução ao Bash Scripting (Linux) ♕
 
 O arquivo *script.sh* refere-se ao primeiro bash script criado na aula.
 
@@ -15,3 +15,4 @@ Não esqueça de fornecer permissão para leitura do arquivo:
 *./script.sh*
 
 - Explicando o código:
+O programa exibe as portas abertas e Serviços ativos no serviço iniciado pelo usuário.
