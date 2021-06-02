@@ -1,4 +1,4 @@
-# Bash_scripting
+# Bash_scripting - Read em construção
 # Introdução ao Bash Scripting (Linux) ♕
 
 O arquivo *script.sh* refere-se ao primeiro bash script criado na aula.
